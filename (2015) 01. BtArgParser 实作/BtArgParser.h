@@ -54,14 +54,6 @@ public:
     BtArgParser(const std::string& args);
     ~BtArgParser() {}
 
-    bool validate(const std::string& spec);
-    bool done() { return m_cursor == m_args.size(); }
-    void reset() { m_cursor = 0; }
-
-    BtArgParser& parse(int* val);
-    BtArgParser& parse(float* val);
-    BtArgParser& parse(std::string* val);
-
     template<class... Args>
     std::tuple<Args...> parse_tuple()
     {
@@ -111,6 +103,5 @@ public:
 
 private:
     std::vector<std::string> m_args;
-    int m_cursor = 0;
 };
 
