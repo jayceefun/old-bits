@@ -1,0 +1,6 @@
+
+2005.03 - 2007.03 | 上海育碧 (Ubisoft Shanghai) | Ghost Recon: Advanced Warfighter (XBox), Splinter Cell: Double Agent (XBox360/PS3) | 程序员| Unreal 2员
+2007.12 - 2010.06 | 上海金酷 (被盛大收购) | 魔界2 | 引擎组组长 | Gamebryo 2.3/2.5
+2010.12 - 2012.07 | 上海游诺 (中青宝投资) | 诸神世纪 | 技术负责人 | 自研
+2012.08 - 2014.04 | CCP | Dust/EVE | 高级工程师 | Unreal 3/自研
+2014.05 - | 珠海西山居 | 剑三端游性能优化/剑三口袋版开发/其他手游项目诊断和优化 | 自研/Unity/cocos2d-x
