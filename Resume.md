@@ -8,6 +8,6 @@ Time | Org | Projects | Title | Skillset
 
 ![](res.jpg)
 
-
-
-
+--------------- | ------------------ | ----------------------------- | --------------------- | -----------------
+更详细的个人经历(en) | [http://gulu-dev.com/about.md](http://gulu-dev.com/about.md)
+我的 GitHub 页面 | https://github.com/mc-gulu 
