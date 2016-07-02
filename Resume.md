@@ -8,6 +8,11 @@ Time | Org | Projects | Title | Skillset
 
 ![](res.jpg)
 
---------------- | ------------------ | ----------------------------- | --------------------- | -----------------
-更详细的个人经历(en) | [http://gulu-dev.com/about.md](http://gulu-dev.com/about.md)
+key | value
+--------------- | ------------------ 
+更多个人经历(en) | [http://gulu-dev.com/about.md](http://gulu-dev.com/about.md)
+我的 Blog | http://gulu-dev.com/
+我的知乎专栏 | https://zhuanlan.zhihu.com/gu-lu
 我的 GitHub 页面 | https://github.com/mc-gulu 
+我的邮箱 | gemfeeling _at_ hotmail _dot_ com
+
